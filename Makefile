@@ -120,6 +120,7 @@ deployment-test:
 # Subcommand  targets #
 #######################
 
+
 bastion:
 	./mjolnir bastion
 
@@ -131,6 +132,7 @@ geth:
 
 node-info:
 	./mjolnir node-info
+	
 
 ##################
 # Travis targets #
